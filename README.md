@@ -1,16 +1,27 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Tatiana Giraldo
 
-<!--
-**tatianagiraldo09/tatianagiraldo09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Estudiante de **Análisis y Desarrollo de Software en el SENA**.
 
-Here are some ideas to get you started:
+Actualmente estoy aprendiendo sobre programación, desarrollo web y bases de datos. Me gusta conocer nuevas tecnologías y poner en práctica lo que aprendo a través de proyectos.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tecnologías que he utilizado
+- 🐍 Python
+- 🌐 HTML y CSS
+- ⚡ JavaScript
+- 🐘 PHP
+- 🗄️ MySQL
+- 🔧 Git y GitHub
+
+### 📂 Algunos de mis proyectos
+- 🏋️ **AgroGym SENA:** software para la gestión de aprendices y rutinas de ejercicio.
+- 🌐 **Portafolio web:** página personal desarrollada con tecnologías web.
+- 🗃️ **Ejercicios de bases de datos:** prácticas de consultas SQL y manejo de información.
+
+### 🌱 Actualmente
+- Aprendiendo y mejorando mis habilidades en programación.
+- Practicando el uso de Git y GitHub.
+- Explorando nuevas herramientas y tecnologías.
+
+📍 Popayán, Colombia 🇨🇴
+
+✨ *Aprendiendo algo nuevo cada día.*
