@@ -14,7 +14,6 @@ Actualmente estoy aprendiendo sobre programación, desarrollo web y bases de dat
 
 ### 📂 Algunos de mis proyectos
 - 🏋️ **AgroGym SENA:** software para la gestión de aprendices y rutinas de ejercicio.
-- 🌐 **Portafolio web:** página personal desarrollada con tecnologías web.
 - 🗃️ **Ejercicios de bases de datos:** prácticas de consultas SQL y manejo de información.
 
 ### 🌱 Actualmente
